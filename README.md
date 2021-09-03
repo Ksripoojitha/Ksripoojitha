@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ksripoojitha
+- 👋 Hi, I’m @Sri Poojitha
 - 👀 I’m interested in Web Development, Machine Learning and Cloud Computing
 - 🌱 I’m currently learning Angular, Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning 
